@@ -1,4 +1,5 @@
-widget-plugins
-==============
+*** Side bar and widgets plugin *** 
 
-Display post using multiple taxonomies
+Description: <br>
+
+Display post using multiple taxonomies. <br>
